@@ -1,5 +1,6 @@
 {
     "óxidos básicos": [
+        { "nombre": "Tradicional: Óxido de Litio <br> IUPAC: Óxido de Litio", "ionesReq": ["Li⁺", "Li⁺", "O²⁻"], "formula": "Li₂O" },
         { "nombre": "Tradicional: Óxido de Sodio <br> IUPAC: Óxido de Sodio", "ionesReq": ["Na⁺", "Na⁺", "O²⁻"], "formula": "Na₂O" },
         { "nombre": "Tradicional: Óxido de Potasio <br> IUPAC: Óxido de Potasio", "ionesReq": ["K⁺", "K⁺", "O²⁻"], "formula": "K₂O" },
         { "nombre": "Tradicional: Óxido de Rubidio <br> IUPAC: Óxido de Rubidio", "ionesReq": ["Rb⁺", "Rb⁺", "O²⁻"], "formula": "Rb₂O" },
@@ -43,35 +44,27 @@
     ],
     "óxidos ácidos": [
         { "nombre": "Tradicional: Anhídrido Carbónico <br> IUPAC: Dióxido de Carbono", "ionesReq": ["C⁴⁺", "O²⁻", "O²⁻"], "formula": "CO₂" },
-        
         { "nombre": "Tradicional: Anhídrido Sulfuroso <br> IUPAC: Dióxido de Azufre", "ionesReq": ["S⁴⁺", "O²⁻", "O²⁻"], "formula": "SO₂" },
         { "nombre": "Tradicional: Anhídrido Sulfúrico <br> IUPAC: Trióxido de Azufre", "ionesReq": ["S⁶⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "SO₃" },
-        
         { "nombre": "Tradicional: Anhídrido Selenioso <br> IUPAC: Dióxido de Selenio", "ionesReq": ["Se⁴⁺", "O²⁻", "O²⁻"], "formula": "SeO₂" },
         { "nombre": "Tradicional: Anhídrido Selénico <br> IUPAC: Trióxido de Selenio", "ionesReq": ["Se⁶⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "SeO₃" },
-        
         { "nombre": "Tradicional: Anhídrido Nitroso <br> IUPAC: Trióxido de Dinitrógeno", "ionesReq": ["N³⁺", "N³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "N₂O₃" },
         { "nombre": "Tradicional: Dióxido de Nitrógeno <br> IUPAC: Dióxido de Nitrógeno", "ionesReq": ["N⁴⁺", "O²⁻", "O²⁻"], "formula": "NO₂" },
         { "nombre": "Tradicional: Anhídrido Nítrico <br> IUPAC: Pentóxido de Dinitrógeno", "ionesReq": ["N⁵⁺", "N⁵⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "N₂O₅" },
-        
         { "nombre": "Tradicional: Anhídrido Fosforoso <br> IUPAC: Trióxido de Difósforo", "ionesReq": ["P³⁺", "P³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "P₂O₃" },
         { "nombre": "Tradicional: Anhídrido Fosfórico <br> IUPAC: Pentóxido de Difósforo", "ionesReq": ["P⁵⁺", "P⁵⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "P₂O₅" },
-        
         { "nombre": "Tradicional: Anhídrido Hipocloroso <br> IUPAC: Monóxido de Dicloro", "ionesReq": ["Cl⁺", "Cl⁺", "O²⁻"], "formula": "Cl₂O" },
         { "nombre": "Tradicional: Anhídrido Cloroso <br> IUPAC: Trióxido de Dicloro", "ionesReq": ["Cl³⁺", "Cl³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "Cl₂O₃" },
         { "nombre": "Tradicional: Anhídrido Clórico <br> IUPAC: Pentóxido de Dicloro", "ionesReq": ["Cl⁵⁺", "Cl⁵⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "Cl₂O₅" },
         { "nombre": "Tradicional: Anhídrido Perclórico <br> IUPAC: Heptóxido de Dicloro", "ionesReq": ["Cl⁷⁺", "Cl⁷⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "Cl₂O₇" },
-        
         { "nombre": "Tradicional: Anhídrido Hipobromoso <br> IUPAC: Monóxido de Dibromo", "ionesReq": ["Br⁺", "Br⁺", "O²⁻"], "formula": "Br₂O" },
         { "nombre": "Tradicional: Anhídrido Bromoso <br> IUPAC: Trióxido de Dibromo", "ionesReq": ["Br³⁺", "Br³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "Br₂O₃" },
         { "nombre": "Tradicional: Anhídrido Brómico <br> IUPAC: Pentóxido de Dibromo", "ionesReq": ["Br⁵⁺", "Br⁵⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "Br₂O₅" },
         { "nombre": "Tradicional: Anhídrido Perbrómico <br> IUPAC: Heptóxido de Dibromo", "ionesReq": ["Br⁷⁺", "Br⁷⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "Br₂O₇" },
-        
         { "nombre": "Tradicional: Anhídrido Hipoyodoso <br> IUPAC: Monóxido de Diyodo", "ionesReq": ["I⁺", "I⁺", "O²⁻"], "formula": "I₂O" },
         { "nombre": "Tradicional: Anhídrido Yodoso <br> IUPAC: Trióxido de Diyodo", "ionesReq": ["I³⁺", "I³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "I₂O₃" },
         { "nombre": "Tradicional: Anhídrido Yódico <br> IUPAC: Pentóxido de Diyodo", "ionesReq": ["I⁵⁺", "I⁵⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "I₂O₅" },
         { "nombre": "Tradicional: Anhídrido Peryódico <br> IUPAC: Heptóxido de Diyodo", "ionesReq": ["I⁷⁺", "I⁷⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "I₂O₇" },
-        
         { "nombre": "Tradicional: Anhídrido Bórico <br> IUPAC: Trióxido de Diboro", "ionesReq": ["B³⁺", "B³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "B₂O₃" },
         { "nombre": "Tradicional: Anhídrido Silícico <br> IUPAC: Dióxido de Silicio", "ionesReq": ["Si⁴⁺", "O²⁻", "O²⁻"], "formula": "SiO₂" },
         { "nombre": "Tradicional: Anhídrido Germánico <br> IUPAC: Dióxido de Germanio", "ionesReq": ["Ge⁴⁺", "O²⁻", "O²⁻"], "formula": "GeO₂" },
@@ -85,6 +78,23 @@
         { "nombre": "Tradicional: Anhídrido Mangánico <br> IUPAC: Trióxido de Manganeso", "ionesReq": ["Mn⁶⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "MnO₃" },
         { "nombre": "Tradicional: Anhídrido Permangánico <br> IUPAC: Heptóxido de Dimanganeso", "ionesReq": ["Mn⁷⁺", "Mn⁷⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "Mn₂O₇" }
     ],
+    "peróxidos": [
+        { "nombre": "Peróxido de Hidrógeno", "ionesReq": ["H⁺", "H⁺", "O₂²⁻"], "formula": "H₂O₂" },
+        { "nombre": "Peróxido de Litio", "ionesReq": ["Li⁺", "Li⁺", "O₂²⁻"], "formula": "Li₂O₂" },
+        { "nombre": "Peróxido de Sodio", "ionesReq": ["Na⁺", "Na⁺", "O₂²⁻"], "formula": "Na₂O₂" },
+        { "nombre": "Peróxido de Potasio", "ionesReq": ["K⁺", "K⁺", "O₂²⁻"], "formula": "K₂O₂" },
+        { "nombre": "Peróxido de Rubidio", "ionesReq": ["Rb⁺", "Rb⁺", "O₂²⁻"], "formula": "Rb₂O₂" },
+        { "nombre": "Peróxido de Cesio", "ionesReq": ["Cs⁺", "Cs⁺", "O₂²⁻"], "formula": "Cs₂O₂" },
+        { "nombre": "Peróxido de Calcio", "ionesReq": ["Ca²⁺", "O₂²⁻"], "formula": "CaO₂" },
+        { "nombre": "Peróxido de Estroncio", "ionesReq": ["Sr²⁺", "O₂²⁻"], "formula": "SrO₂" },
+        { "nombre": "Peróxido de Bario", "ionesReq": ["Ba²⁺", "O₂²⁻"], "formula": "BaO₂" }
+    ],
+    "superóxidos": [
+        { "nombre": "Superóxido de Sodio", "ionesReq": ["Na⁺", "O₂⁻"], "formula": "NaO₂" },
+        { "nombre": "Superóxido de Potasio", "ionesReq": ["K⁺", "O₂⁻"], "formula": "KO₂" },
+        { "nombre": "Superóxido de Rubidio", "ionesReq": ["Rb⁺", "O₂⁻"], "formula": "RbO₂" },
+        { "nombre": "Superóxido de Cesio", "ionesReq": ["Cs⁺", "O₂⁻"], "formula": "CsO₂" }
+    ],
     "hidróxidos": [
         { "nombre": "Hidróxido de Magnesio", "ionesReq": ["Mg²⁺", "OH⁻", "OH⁻"], "formula": "Mg(OH)₂" },
         { "nombre": "Hidróxido de Potasio", "ionesReq": ["K⁺", "OH⁻"], "formula": "KOH" },
@@ -92,10 +102,6 @@
     ],
     "sales de amonio": [
         { "nombre": "Cloruro de Amonio", "ionesReq": ["NH₄⁺", "Cl⁻"], "formula": "NH₄Cl" }
-    ],
-    "peróxidos": [
-        { "nombre": "Peróxido de Hidrógeno", "ionesReq": ["H⁺", "H⁺", "O₂²⁻"], "formula": "H₂O₂" },
-        { "nombre": "Peróxido de Sodio", "ionesReq": ["Na⁺", "Na⁺", "O₂²⁻"], "formula": "Na₂O₂" }
     ],
     "óxidos anfóteros": [
         { "nombre": "Óxido de Zinc", "ionesReq": ["Zn²⁺", "O²⁻"], "formula": "ZnO" },
