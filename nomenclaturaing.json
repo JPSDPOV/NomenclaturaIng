@@ -151,7 +151,13 @@
         { "nombre": "Tradicional: Hidruro de zinc <br> IUPAC: Hidruro de zinc", "ionesReq": ["Zn²⁺", "H⁻", "H⁻"], "formula": "ZnH₂" }
     ],
     "hidruros no metálicos": [
-        { "nombre": "Cloruro de Hidrógeno (gas)", "ionesReq": ["H⁺", "Cl⁻"], "formula": "HCl" }
+        { "nombre": "Fluoruro de hidrógeno", "ionesReq": ["H⁺", "F⁻"], "formula": "HF" },
+        { "nombre": "Cloruro de hidrógeno", "ionesReq": ["H⁺", "Cl⁻"], "formula": "HCl" },
+        { "nombre": "Bromuro de hidrógeno", "ionesReq": ["H⁺", "Br⁻"], "formula": "HBr" },
+        { "nombre": "Yoduro de hidrógeno", "ionesReq": ["H⁺", "I⁻"], "formula": "HI" },
+        { "nombre": "Sulfuro de hidrógeno", "ionesReq": ["H⁺", "H⁺", "S²⁻"], "formula": "H₂S" },
+        { "nombre": "Seleniuro de hidrógeno", "ionesReq": ["H⁺", "H⁺", "Se²⁻"], "formula": "H₂Se" },
+        { "nombre": "Telururo de hidrógeno", "ionesReq": ["H⁺", "H⁺", "Te²⁻"], "formula": "H₂Te" }
     ],
     "hidruros no metálicos (casos especiales)": [
         { "nombre": "Amoniaco", "ionesReq": ["N³⁺", "H⁻", "H⁻", "H⁻"], "formula": "NH₃" },
