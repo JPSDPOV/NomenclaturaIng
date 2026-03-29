@@ -1,0 +1,32 @@
+{
+    "óxidos básicos": [
+        { "nombre": "Tradicional: Óxido de Sodio <br> Stock/IUPAC: Óxido de Sodio", "ionesReq": ["Na⁺", "Na⁺", "O²⁻"], "formula": "Na₂O" },
+        { "nombre": "Tradicional: Óxido de Calcio <br> Stock/IUPAC: Óxido de Calcio", "ionesReq": ["Ca²⁺", "O²⁻"], "formula": "CaO" },
+        { "nombre": "Tradicional: Óxido de Aluminio <br> Stock/IUPAC: Óxido de Aluminio", "ionesReq": ["Al³⁺", "Al³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "Al₂O₃" },
+        { "nombre": "Tradicional: Óxido Férrico <br> Stock/IUPAC: Óxido de Hierro (III)", "ionesReq": ["Fe³⁺", "Fe³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "Fe₂O₃" },
+        { "nombre": "Tradicional: Óxido Ferroso <br> Stock/IUPAC: Óxido de Hierro (II)", "ionesReq": ["Fe²⁺", "O²⁻"], "formula": "FeO" },
+        { "nombre": "Tradicional: Óxido Plúmbico <br> Stock/IUPAC: Óxido de Plomo (IV)", "ionesReq": ["Pb⁴⁺", "O²⁻", "O²⁻"], "formula": "PbO₂" },
+        { "nombre": "Tradicional: Óxido Mercurioso <br> Stock/IUPAC: Óxido de Mercurio (I)", "ionesReq": ["Hg⁺", "Hg⁺", "O²⁻"], "formula": "Hg₂O" },
+        { "nombre": "Tradicional: Óxido Mercúrico <br> Stock/IUPAC: Óxido de Mercurio (II)", "ionesReq": ["Hg²⁺", "O²⁻"], "formula": "HgO" }
+    ],
+    "óxidos ácidos": [
+        { "nombre": "Dióxido de Carbono", "ionesReq": ["C⁴⁺", "O²⁻", "O²⁻"], "formula": "CO₂" },
+        { "nombre": "Trióxido de Azufre", "ionesReq": ["S⁶⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "SO₃" }
+    ],
+    "hidróxidos": [
+        { "nombre": "Hidróxido de Magnesio", "ionesReq": ["Mg²⁺", "OH⁻", "OH⁻"], "formula": "Mg(OH)₂" },
+        { "nombre": "Hidróxido de Potasio", "ionesReq": ["K⁺", "OH⁻"], "formula": "KOH" },
+        { "nombre": "Hidróxido Áurico", "ionesReq": ["Au³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Au(OH)₃" }
+    ],
+    "sales de amonio": [
+        { "nombre": "Cloruro de Amonio", "ionesReq": ["NH₄⁺", "Cl⁻"], "formula": "NH₄Cl" }
+    ],
+    "peróxidos": [
+        { "nombre": "Peróxido de Hidrógeno", "ionesReq": ["H⁺", "H⁺", "O₂²⁻"], "formula": "H₂O₂" },
+        { "nombre": "Peróxido de Sodio", "ionesReq": ["Na⁺", "Na⁺", "O₂²⁻"], "formula": "Na₂O₂" }
+    ],
+    "óxidos anfóteros": [
+        { "nombre": "Óxido de Zinc", "ionesReq": ["Zn²⁺", "O²⁻"], "formula": "ZnO" },
+        { "nombre": "Óxido de Silicio (IV)", "ionesReq": ["Si⁴⁺", "O²⁻", "O²⁻"], "formula": "SiO₂" }
+    ]
+}
