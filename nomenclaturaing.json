@@ -78,6 +78,26 @@
         { "nombre": "Tradicional: Anhídrido Mangánico <br> IUPAC: Trióxido de Manganeso", "ionesReq": ["Mn⁶⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "MnO₃" },
         { "nombre": "Tradicional: Anhídrido Permangánico <br> IUPAC: Heptóxido de Dimanganeso", "ionesReq": ["Mn⁷⁺", "Mn⁷⁺", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻", "O²⁻"], "formula": "Mn₂O₇" }
     ],
+    "óxidos neutros": [
+        { "nombre": "Óxido Nitroso <br> (Monóxido de Dinitrógeno)", "ionesReq": ["N⁺", "N⁺", "O²⁻"], "formula": "N₂O" },
+        { "nombre": "Óxido Nítrico <br> (Monóxido de Nitrógeno)", "ionesReq": ["N²⁺", "O²⁻"], "formula": "NO" },
+        { "nombre": "Monóxido de Carbono", "ionesReq": ["C²⁺", "O²⁻"], "formula": "CO" }
+    ],
+    "óxidos anfóteros": [
+        { "nombre": "Agua <br> (Óxido de Hidrógeno)", "ionesReq": ["H⁺", "H⁺", "O²⁻"], "formula": "H₂O" },
+        { "nombre": "Óxido de Berilio", "ionesReq": ["Be²⁺", "O²⁻"], "formula": "BeO" },
+        { "nombre": "Tradicional: Óxido Crómico <br> IUPAC: Óxido de Cromo (III)", "ionesReq": ["Cr³⁺", "Cr³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "Cr₂O₃" },
+        { "nombre": "Óxido de Aluminio", "ionesReq": ["Al³⁺", "Al³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "Al₂O₃" },
+        { "nombre": "Óxido de Zinc", "ionesReq": ["Zn²⁺", "O²⁻"], "formula": "ZnO" },
+        { "nombre": "Óxido de Bismuto", "ionesReq": ["Bi³⁺", "Bi³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "Bi₂O₃" },
+        { "nombre": "Tradicional: Óxido Arsenioso <br> IUPAC: Trióxido de Diarsénico", "ionesReq": ["As³⁺", "As³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "As₂O₃" },
+        { "nombre": "Tradicional: Óxido Antimonioso <br> IUPAC: Trióxido de Diantimonio", "ionesReq": ["Sb³⁺", "Sb³⁺", "O²⁻", "O²⁻", "O²⁻"], "formula": "Sb₂O₃" },
+        { "nombre": "Tradicional: Óxido Plumboso <br> IUPAC: Óxido de Plomo (II)", "ionesReq": ["Pb²⁺", "O²⁻"], "formula": "PbO" },
+        { "nombre": "Tradicional: Óxido Plúmbico <br> IUPAC: Óxido de Plomo (IV)", "ionesReq": ["Pb⁴⁺", "O²⁻", "O²⁻"], "formula": "PbO₂" },
+        { "nombre": "Tradicional: Óxido Estannoso <br> IUPAC: Óxido de Estaño (II)", "ionesReq": ["Sn²⁺", "O²⁻"], "formula": "SnO" },
+        { "nombre": "Tradicional: Óxido Estánnico <br> IUPAC: Óxido de Estaño (IV)", "ionesReq": ["Sn⁴⁺", "O²⁻", "O²⁻"], "formula": "SnO₂" },
+        { "nombre": "Tradicional: Bióxido de Manganeso <br> IUPAC: Óxido de Manganeso (IV)", "ionesReq": ["Mn⁴⁺", "O²⁻", "O²⁻"], "formula": "MnO₂" }
+    ],
     "peróxidos": [
         { "nombre": "Peróxido de Hidrógeno", "ionesReq": ["H⁺", "H⁺", "O₂²⁻"], "formula": "H₂O₂" },
         { "nombre": "Peróxido de Litio", "ionesReq": ["Li⁺", "Li⁺", "O₂²⁻"], "formula": "Li₂O₂" },
@@ -102,9 +122,5 @@
     ],
     "sales de amonio": [
         { "nombre": "Cloruro de Amonio", "ionesReq": ["NH₄⁺", "Cl⁻"], "formula": "NH₄Cl" }
-    ],
-    "óxidos anfóteros": [
-        { "nombre": "Óxido de Zinc", "ionesReq": ["Zn²⁺", "O²⁻"], "formula": "ZnO" },
-        { "nombre": "Óxido de Silicio (IV)", "ionesReq": ["Si⁴⁺", "O²⁻", "O²⁻"], "formula": "SiO₂" }
     ]
 }
