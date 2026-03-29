@@ -160,8 +160,15 @@
         { "nombre": "Telururo de hidrógeno", "ionesReq": ["H⁺", "H⁺", "Te²⁻"], "formula": "H₂Te" }
     ],
     "hidruros no metálicos (casos especiales)": [
-        { "nombre": "Amoniaco", "ionesReq": ["N³⁺", "H⁻", "H⁻", "H⁻"], "formula": "NH₃" },
-        { "nombre": "Metano", "ionesReq": ["C⁴⁺", "H⁻", "H⁻", "H⁻", "H⁻"], "formula": "CH₄" }
+        { "nombre": "Tradicional: Agua <br> IUPAC: Agua", "ionesReq": ["H⁺", "H⁺", "O²⁻"], "formula": "H₂O" },
+        { "nombre": "Tradicional: Amoniaco <br> IUPAC: Amoniaco", "ionesReq": ["N³⁺", "H⁻", "H⁻", "H⁻"], "formula": "NH₃" },
+        { "nombre": "Tradicional: Metano <br> IUPAC: Metano", "ionesReq": ["C⁴⁺", "H⁻", "H⁻", "H⁻", "H⁻"], "formula": "CH₄" },
+        { "nombre": "Tradicional: Borina <br> IUPAC: Borano", "ionesReq": ["B³⁺", "H⁻", "H⁻", "H⁻"], "formula": "BH₃" },
+        { "nombre": "Tradicional: Silano <br> IUPAC: Silano", "ionesReq": ["Si⁴⁺", "H⁻", "H⁻", "H⁻", "H⁻"], "formula": "SiH₄" },
+        { "nombre": "Tradicional: Germano <br> IUPAC: Germano", "ionesReq": ["Ge⁴⁺", "H⁻", "H⁻", "H⁻", "H⁻"], "formula": "GeH₄" },
+        { "nombre": "Tradicional: Arsenamina/Arsina <br> IUPAC: Arsano", "ionesReq": ["As³⁺", "H⁻", "H⁻", "H⁻"], "formula": "AsH₃" },
+        { "nombre": "Tradicional: Estibamina/Estibina <br> IUPAC: Estibano", "ionesReq": ["Sb³⁺", "H⁻", "H⁻", "H⁻"], "formula": "SbH₃" },
+        { "nombre": "Tradicional: Fosfamina/Fosfina <br> IUPAC: Fosfano", "ionesReq": ["P³⁺", "H⁻", "H⁻", "H⁻"], "formula": "PH₃" }
     ],
     "ácidos hidrácidos": [
         { "nombre": "Ácido Clorhídrico", "ionesReq": ["H⁺", "Cl⁻"], "formula": "HCl(ac)" },
