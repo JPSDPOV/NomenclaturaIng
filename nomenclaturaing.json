@@ -115,12 +115,47 @@
         { "nombre": "Superóxido de Rubidio", "ionesReq": ["Rb⁺", "O₂⁻"], "formula": "RbO₂" },
         { "nombre": "Superóxido de Cesio", "ionesReq": ["Cs⁺", "O₂⁻"], "formula": "CsO₂" }
     ],
+    "hidruros metálicos": [
+        { "nombre": "Hidruro de Sodio", "ionesReq": ["Na⁺", "H⁻"], "formula": "NaH" },
+        { "nombre": "Hidruro de Calcio", "ionesReq": ["Ca²⁺", "H⁻", "H⁻"], "formula": "CaH₂" }
+    ],
+    "hidruros no metálicos": [
+        { "nombre": "Cloruro de Hidrógeno (gas)", "ionesReq": ["H⁺", "Cl⁻"], "formula": "HCl" }
+    ],
+    "hidruros no metálicos (casos especiales)": [
+        { "nombre": "Amoniaco", "ionesReq": ["N³⁺", "H⁻", "H⁻", "H⁻"], "formula": "NH₃" },
+        { "nombre": "Metano", "ionesReq": ["C⁴⁺", "H⁻", "H⁻", "H⁻", "H⁻"], "formula": "CH₄" }
+    ],
+    "ácidos hidrácidos": [
+        { "nombre": "Ácido Clorhídrico", "ionesReq": ["H⁺", "Cl⁻"], "formula": "HCl(ac)" },
+        { "nombre": "Ácido Sulfhídrico", "ionesReq": ["H⁺", "H⁺", "S²⁻"], "formula": "H₂S(ac)" }
+    ],
+    "sales binarias (iónicas)": [
+        { "nombre": "Cloruro de Sodio", "ionesReq": ["Na⁺", "Cl⁻"], "formula": "NaCl" },
+        { "nombre": "Sulfuro de Hierro (II)", "ionesReq": ["Fe²⁺", "S²⁻"], "formula": "FeS" }
+    ],
+    "sales binarias (covalentes)": [
+        { "nombre": "Tricloruro de Fósforo", "ionesReq": ["P³⁺", "Cl⁻", "Cl⁻", "Cl⁻"], "formula": "PCl₃" }
+    ],
     "hidróxidos": [
-        { "nombre": "Hidróxido de Magnesio", "ionesReq": ["Mg²⁺", "OH⁻", "OH⁻"], "formula": "Mg(OH)₂" },
-        { "nombre": "Hidróxido de Potasio", "ionesReq": ["K⁺", "OH⁻"], "formula": "KOH" },
-        { "nombre": "Hidróxido Áurico", "ionesReq": ["Au³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Au(OH)₃" }
+        { "nombre": "Hidróxido de Magnesio", "ionesReq": ["Mg²⁺", "OH⁻", "OH⁻"], "formula": "Mg(OH)₂" }
+    ],
+    "ácidos oxácidos": [
+        { "nombre": "Ácido Sulfúrico", "ionesReq": ["H⁺", "H⁺", "SO₄²⁻"], "formula": "H₂SO₄" }
+    ],
+    "sales neutras": [
+        { "nombre": "Sulfato de Sodio", "ionesReq": ["Na⁺", "Na⁺", "SO₄²⁻"], "formula": "Na₂SO₄" }
+    ],
+    "sales ácidas": [
+        { "nombre": "Bicarbonato de Sodio", "ionesReq": ["Na⁺", "HCO₃⁻"], "formula": "NaHCO₃" }
+    ],
+    "sales básicas": [
+        { "nombre": "Nitrato básico de Magnesio", "ionesReq": ["Mg²⁺", "OH⁻", "NO₃⁻"], "formula": "Mg(OH)NO₃" }
     ],
     "sales de amonio": [
         { "nombre": "Cloruro de Amonio", "ionesReq": ["NH₄⁺", "Cl⁻"], "formula": "NH₄Cl" }
+    ],
+    "sales dobles": [
+        { "nombre": "Sulfato doble de Potasio y Aluminio", "ionesReq": ["K⁺", "Al³⁺", "SO₄²⁻", "SO₄²⁻"], "formula": "KAl(SO₄)₂" }
     ]
 }
