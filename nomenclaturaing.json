@@ -618,7 +618,71 @@
         { "nombre": "Tradicional: Hidróxido plúmbico <br> IUPAC: Hidróxido de plomo (IV)", "ionesReq": ["Pb⁴⁺", "OH⁻", "OH⁻", "OH⁻", "OH⁻"], "formula": "Pb(OH)₄" }
     ],
     "ácidos oxácidos": [
-        { "nombre": "Ácido Sulfúrico", "ionesReq": ["H⁺", "H⁺", "SO₄²⁻"], "formula": "H₂SO₄" }
+        { "nombre": "Ácido hipocloroso", "ionesReq": ["H⁺", "ClO⁻"], "formula": "HClO" },
+        { "nombre": "Ácido cloroso", "ionesReq": ["H⁺", "ClO₂⁻"], "formula": "HClO₂" },
+        { "nombre": "Ácido clórico", "ionesReq": ["H⁺", "ClO₃⁻"], "formula": "HClO₃" },
+        { "nombre": "Ácido perclórico", "ionesReq": ["H⁺", "ClO₄⁻"], "formula": "HClO₄" },
+        
+        { "nombre": "Ácido hipobromoso", "ionesReq": ["H⁺", "BrO⁻"], "formula": "HBrO" },
+        { "nombre": "Ácido bromoso", "ionesReq": ["H⁺", "BrO₂⁻"], "formula": "HBrO₂" },
+        { "nombre": "Ácido brómico", "ionesReq": ["H⁺", "BrO₃⁻"], "formula": "HBrO₃" },
+        { "nombre": "Ácido perbrómico", "ionesReq": ["H⁺", "BrO₄⁻"], "formula": "HBrO₄" },
+        
+        { "nombre": "Ácido hipoyodoso", "ionesReq": ["H⁺", "IO⁻"], "formula": "HIO" },
+        { "nombre": "Ácido yodoso", "ionesReq": ["H⁺", "IO₂⁻"], "formula": "HIO₂" },
+        { "nombre": "Ácido yódico", "ionesReq": ["H⁺", "IO₃⁻"], "formula": "HIO₃" },
+        { "nombre": "Ácido peryódico", "ionesReq": ["H⁺", "IO₄⁻"], "formula": "HIO₄" },
+
+        { "nombre": "Ácido sulfuroso", "ionesReq": ["H⁺", "H⁺", "SO₃²⁻"], "formula": "H₂SO₃" },
+        { "nombre": "Ácido sulfúrico", "ionesReq": ["H⁺", "H⁺", "SO₄²⁻"], "formula": "H₂SO₄" },
+        
+        { "nombre": "Ácido selenioso", "ionesReq": ["H⁺", "H⁺", "SeO₃²⁻"], "formula": "H₂SeO₃" },
+        { "nombre": "Ácido selénico", "ionesReq": ["H⁺", "H⁺", "SeO₄²⁻"], "formula": "H₂SeO₄" },
+        
+        { "nombre": "Ácido teluroso", "ionesReq": ["H⁺", "H⁺", "TeO₃²⁻"], "formula": "H₂TeO₃" },
+        { "nombre": "Ácido telúrico", "ionesReq": ["H⁺", "H⁺", "TeO₄²⁻"], "formula": "H₂TeO₄" },
+
+        { "nombre": "Ácido nitroso", "ionesReq": ["H⁺", "NO₂⁻"], "formula": "HNO₂" },
+        { "nombre": "Ácido nítrico", "ionesReq": ["H⁺", "NO₃⁻"], "formula": "HNO₃" },
+
+        { "nombre": "Ácido metafosforoso", "ionesReq": ["H⁺", "PO₂⁻"], "formula": "HPO₂" },
+        { "nombre": "Ácido pirofosforoso", "ionesReq": ["H⁺", "H⁺", "H⁺", "H⁺", "P₂O₅⁴⁻"], "formula": "H₄P₂O₅" },
+        { "nombre": "Ácido fosforoso (ortofosforoso)", "ionesReq": ["H⁺", "H⁺", "H⁺", "PO₃³⁻"], "formula": "H₃PO₃" },
+        
+        { "nombre": "Ácido metafosfórico", "ionesReq": ["H⁺", "PO₃⁻"], "formula": "HPO₃" },
+        { "nombre": "Ácido pirofosfórico", "ionesReq": ["H⁺", "H⁺", "H⁺", "H⁺", "P₂O₇⁴⁻"], "formula": "H₄P₂O₇" },
+        { "nombre": "Ácido fosfórico (ortofosfórico)", "ionesReq": ["H⁺", "H⁺", "H⁺", "PO₄³⁻"], "formula": "H₃PO₄" },
+
+        { "nombre": "Ácido metaarsenioso", "ionesReq": ["H⁺", "AsO₂⁻"], "formula": "HAsO₂" },
+        { "nombre": "Ácido piroarsenioso", "ionesReq": ["H⁺", "H⁺", "H⁺", "H⁺", "As₂O₅⁴⁻"], "formula": "H₄As₂O₅" },
+        { "nombre": "Ácido arsenioso (ortoarsenioso)", "ionesReq": ["H⁺", "H⁺", "H⁺", "AsO₃³⁻"], "formula": "H₃AsO₃" },
+        
+        { "nombre": "Ácido metaarsénico", "ionesReq": ["H⁺", "AsO₃⁻"], "formula": "HAsO₃" },
+        { "nombre": "Ácido piroarsénico", "ionesReq": ["H⁺", "H⁺", "H⁺", "H⁺", "As₂O₇⁴⁻"], "formula": "H₄As₂O₇" },
+        { "nombre": "Ácido arsénico (ortoarsénico)", "ionesReq": ["H⁺", "H⁺", "H⁺", "AsO₄³⁻"], "formula": "H₃AsO₄" },
+        
+        { "nombre": "Ácido metaantimonioso", "ionesReq": ["H⁺", "SbO₂⁻"], "formula": "HSbO₂" },
+        { "nombre": "Ácido piroantimonioso", "ionesReq": ["H⁺", "H⁺", "H⁺", "H⁺", "Sb₂O₅⁴⁻"], "formula": "H₄Sb₂O₅" },
+        { "nombre": "Ácido antimonioso (ortoantimonioso)", "ionesReq": ["H⁺", "H⁺", "H⁺", "SbO₃³⁻"], "formula": "H₃SbO₃" },
+        
+        { "nombre": "Ácido metaantimónico", "ionesReq": ["H⁺", "SbO₃⁻"], "formula": "HSbO₃" },
+        { "nombre": "Ácido piroantimónico", "ionesReq": ["H⁺", "H⁺", "H⁺", "H⁺", "Sb₂O₇⁴⁻"], "formula": "H₄Sb₂O₇" },
+        { "nombre": "Ácido antimónico (ortoantimónico)", "ionesReq": ["H⁺", "H⁺", "H⁺", "SbO₄³⁻"], "formula": "H₃SbO₄" },
+
+        { "nombre": "Ácido carbónico", "ionesReq": ["H⁺", "H⁺", "CO₃²⁻"], "formula": "H₂CO₃" },
+        
+        { "nombre": "Ácido metasilícico", "ionesReq": ["H⁺", "H⁺", "SiO₃²⁻"], "formula": "H₂SiO₃" },
+        { "nombre": "Ácido ortosilícico", "ionesReq": ["H⁺", "H⁺", "H⁺", "H⁺", "SiO₄⁴⁻"], "formula": "H₄SiO₄" },
+
+        { "nombre": "Ácido metabórico", "ionesReq": ["H⁺", "BO₂⁻"], "formula": "HBO₂" },
+        { "nombre": "Ácido pirobórico", "ionesReq": ["H⁺", "H⁺", "H⁺", "H⁺", "B₂O₅⁴⁻"], "formula": "H₄B₂O₅" },
+        { "nombre": "Ácido bórico (ortobórico)", "ionesReq": ["H⁺", "H⁺", "H⁺", "BO₃³⁻"], "formula": "H₃BO₃" },
+
+        { "nombre": "Ácido crómico", "ionesReq": ["H⁺", "H⁺", "CrO₄²⁻"], "formula": "H₂CrO₄" },
+        { "nombre": "Ácido dicrómico", "ionesReq": ["H⁺", "H⁺", "Cr₂O₇²⁻"], "formula": "H₂Cr₂O₇" },
+        
+        { "nombre": "Ácido mangánico", "ionesReq": ["H⁺", "H⁺", "MnO₄²⁻"], "formula": "H₂MnO₄" },
+        { "nombre": "Ácido permangánico", "ionesReq": ["H⁺", "MnO₄⁻"], "formula": "HMnO₄" }
     ],
     "sales neutras": [
         { "nombre": "Sulfato de Sodio", "ionesReq": ["Na⁺", "Na⁺", "SO₄²⁻"], "formula": "Na₂SO₄" }
