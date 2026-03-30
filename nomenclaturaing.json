@@ -562,7 +562,60 @@
         { "nombre": "Heptafluoruro de yodo", "ionesReq": ["I⁷⁺", "F⁻", "F⁻", "F⁻", "F⁻", "F⁻", "F⁻", "F⁻"], "formula": "IF₇" }
     ],
     "hidróxidos": [
-        { "nombre": "Hidróxido de Magnesio", "ionesReq": ["Mg²⁺", "OH⁻", "OH⁻"], "formula": "Mg(OH)₂" }
+        { "nombre": "Tradicional: Hidróxido de litio <br> IUPAC: Hidróxido de litio", "ionesReq": ["Li⁺", "OH⁻"], "formula": "LiOH" },
+        { "nombre": "Tradicional: Hidróxido de sodio <br> IUPAC: Hidróxido de sodio", "ionesReq": ["Na⁺", "OH⁻"], "formula": "NaOH" },
+        { "nombre": "Tradicional: Hidróxido de potasio <br> IUPAC: Hidróxido de potasio", "ionesReq": ["K⁺", "OH⁻"], "formula": "KOH" },
+        { "nombre": "Tradicional: Hidróxido de rubidio <br> IUPAC: Hidróxido de rubidio", "ionesReq": ["Rb⁺", "OH⁻"], "formula": "RbOH" },
+        { "nombre": "Tradicional: Hidróxido de cesio <br> IUPAC: Hidróxido de cesio", "ionesReq": ["Cs⁺", "OH⁻"], "formula": "CsOH" },
+        { "nombre": "Tradicional: Hidróxido de francio <br> IUPAC: Hidróxido de francio", "ionesReq": ["Fr⁺", "OH⁻"], "formula": "FrOH" },
+        { "nombre": "Tradicional: Hidróxido de amonio <br> IUPAC: Hidróxido de amonio", "ionesReq": ["NH₄⁺", "OH⁻"], "formula": "NH₄OH" },
+        
+        { "nombre": "Tradicional: Hidróxido de berilio <br> IUPAC: Hidróxido de berilio", "ionesReq": ["Be²⁺", "OH⁻", "OH⁻"], "formula": "Be(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido de magnesio <br> IUPAC: Hidróxido de magnesio", "ionesReq": ["Mg²⁺", "OH⁻", "OH⁻"], "formula": "Mg(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido de calcio <br> IUPAC: Hidróxido de calcio", "ionesReq": ["Ca²⁺", "OH⁻", "OH⁻"], "formula": "Ca(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido de estroncio <br> IUPAC: Hidróxido de estroncio", "ionesReq": ["Sr²⁺", "OH⁻", "OH⁻"], "formula": "Sr(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido de bario <br> IUPAC: Hidróxido de bario", "ionesReq": ["Ba²⁺", "OH⁻", "OH⁻"], "formula": "Ba(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido de radio <br> IUPAC: Hidróxido de radio", "ionesReq": ["Ra²⁺", "OH⁻", "OH⁻"], "formula": "Ra(OH)₂" },
+        
+        { "nombre": "Tradicional: Hidróxido de zinc <br> IUPAC: Hidróxido de zinc", "ionesReq": ["Zn²⁺", "OH⁻", "OH⁻"], "formula": "Zn(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido de cadmio <br> IUPAC: Hidróxido de cadmio", "ionesReq": ["Cd²⁺", "OH⁻", "OH⁻"], "formula": "Cd(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido de plata <br> IUPAC: Hidróxido de plata", "ionesReq": ["Ag⁺", "OH⁻"], "formula": "AgOH" },
+        { "nombre": "Tradicional: Hidróxido de aluminio <br> IUPAC: Hidróxido de aluminio", "ionesReq": ["Al³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Al(OH)₃" },
+        { "nombre": "Tradicional: Hidróxido de galio <br> IUPAC: Hidróxido de galio", "ionesReq": ["Ga³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Ga(OH)₃" },
+        { "nombre": "Tradicional: Hidróxido de bismuto <br> IUPAC: Hidróxido de bismuto", "ionesReq": ["Bi³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Bi(OH)₃" },
+
+        { "nombre": "Tradicional: Hidróxido cuproso <br> IUPAC: Hidróxido de cobre (I)", "ionesReq": ["Cu⁺", "OH⁻"], "formula": "CuOH" },
+        { "nombre": "Tradicional: Hidróxido cúprico <br> IUPAC: Hidróxido de cobre (II)", "ionesReq": ["Cu²⁺", "OH⁻", "OH⁻"], "formula": "Cu(OH)₂" },
+        
+        { "nombre": "Tradicional: Hidróxido auroso <br> IUPAC: Hidróxido de oro (I)", "ionesReq": ["Au⁺", "OH⁻"], "formula": "AuOH" },
+        { "nombre": "Tradicional: Hidróxido áurico <br> IUPAC: Hidróxido de oro (III)", "ionesReq": ["Au³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Au(OH)₃" },
+
+        { "nombre": "Tradicional: Hidróxido ferroso <br> IUPAC: Hidróxido de hierro (II)", "ionesReq": ["Fe²⁺", "OH⁻", "OH⁻"], "formula": "Fe(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido férrico <br> IUPAC: Hidróxido de hierro (III)", "ionesReq": ["Fe³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Fe(OH)₃" },
+
+        { "nombre": "Tradicional: Hidróxido cobaltoso <br> IUPAC: Hidróxido de cobalto (II)", "ionesReq": ["Co²⁺", "OH⁻", "OH⁻"], "formula": "Co(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido cobáltico <br> IUPAC: Hidróxido de cobalto (III)", "ionesReq": ["Co³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Co(OH)₃" },
+
+        { "nombre": "Tradicional: Hidróxido niqueloso <br> IUPAC: Hidróxido de níquel (II)", "ionesReq": ["Ni²⁺", "OH⁻", "OH⁻"], "formula": "Ni(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido niquélico <br> IUPAC: Hidróxido de níquel (III)", "ionesReq": ["Ni³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Ni(OH)₃" },
+
+        { "nombre": "Tradicional: Hidróxido cromoso <br> IUPAC: Hidróxido de cromo (II)", "ionesReq": ["Cr²⁺", "OH⁻", "OH⁻"], "formula": "Cr(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido crómico <br> IUPAC: Hidróxido de cromo (III)", "ionesReq": ["Cr³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Cr(OH)₃" },
+
+        { "nombre": "Tradicional: Hidróxido manganoso <br> IUPAC: Hidróxido de manganeso (II)", "ionesReq": ["Mn²⁺", "OH⁻", "OH⁻"], "formula": "Mn(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido mangánico <br> IUPAC: Hidróxido de manganeso (III)", "ionesReq": ["Mn³⁺", "OH⁻", "OH⁻", "OH⁻"], "formula": "Mn(OH)₃" },
+
+        { "nombre": "Tradicional: Hidróxido mercurioso <br> IUPAC: Hidróxido de mercurio (I)", "ionesReq": ["Hg⁺", "OH⁻"], "formula": "HgOH" },
+        { "nombre": "Tradicional: Hidróxido mercúrico <br> IUPAC: Hidróxido de mercurio (II)", "ionesReq": ["Hg²⁺", "OH⁻", "OH⁻"], "formula": "Hg(OH)₂" },
+
+        { "nombre": "Tradicional: Hidróxido platinoso <br> IUPAC: Hidróxido de platino (II)", "ionesReq": ["Pt²⁺", "OH⁻", "OH⁻"], "formula": "Pt(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido platínico <br> IUPAC: Hidróxido de platino (IV)", "ionesReq": ["Pt⁴⁺", "OH⁻", "OH⁻", "OH⁻", "OH⁻"], "formula": "Pt(OH)₄" },
+
+        { "nombre": "Tradicional: Hidróxido estannoso <br> IUPAC: Hidróxido de estaño (II)", "ionesReq": ["Sn²⁺", "OH⁻", "OH⁻"], "formula": "Sn(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido estánnico <br> IUPAC: Hidróxido de estaño (IV)", "ionesReq": ["Sn⁴⁺", "OH⁻", "OH⁻", "OH⁻", "OH⁻"], "formula": "Sn(OH)₄" },
+
+        { "nombre": "Tradicional: Hidróxido plumboso <br> IUPAC: Hidróxido de plomo (II)", "ionesReq": ["Pb²⁺", "OH⁻", "OH⁻"], "formula": "Pb(OH)₂" },
+        { "nombre": "Tradicional: Hidróxido plúmbico <br> IUPAC: Hidróxido de plomo (IV)", "ionesReq": ["Pb⁴⁺", "OH⁻", "OH⁻", "OH⁻", "OH⁻"], "formula": "Pb(OH)₄" }
     ],
     "ácidos oxácidos": [
         { "nombre": "Ácido Sulfúrico", "ionesReq": ["H⁺", "H⁺", "SO₄²⁻"], "formula": "H₂SO₄" }
