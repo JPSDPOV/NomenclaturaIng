@@ -173,8 +173,14 @@
         { "nombre": "Tradicional: Fosfamina (o fosfina) <br> IUPAC: Fosfano", "ionesReq": ["P³⁻_izq", "H⁺_der", "H⁺_der", "H⁺_der"], "formula": "PH₃" }
     ],
     "ácidos hidrácidos": [
-        { "nombre": "Ácido Clorhídrico", "ionesReq": ["H⁺", "Cl⁻"], "formula": "HCl(ac)" },
-        { "nombre": "Ácido Sulfhídrico", "ionesReq": ["H⁺", "H⁺", "S²⁻"], "formula": "H₂S(ac)" }
+        { "nombre": "Ácido fluorhídrico", "ionesReq": ["H⁺", "F⁻"], "formula": "HF(ac)" },
+        { "nombre": "Ácido clorhídrico", "ionesReq": ["H⁺", "Cl⁻"], "formula": "HCl(ac)" },
+        { "nombre": "Ácido bromhídrico", "ionesReq": ["H⁺", "Br⁻"], "formula": "HBr(ac)" },
+        { "nombre": "Ácido yodhídrico <br> (o iodhídrico)", "ionesReq": ["H⁺", "I⁻"], "formula": "HI(ac)" },
+        { "nombre": "Ácido sulfhídrico", "ionesReq": ["H⁺", "H⁺", "S²⁻"], "formula": "H₂S(ac)" },
+        { "nombre": "Ácido selenhídrico", "ionesReq": ["H⁺", "H⁺", "Se²⁻"], "formula": "H₂Se(ac)" },
+        { "nombre": "Ácido telurhídrico", "ionesReq": ["H⁺", "H⁺", "Te²⁻"], "formula": "H₂Te(ac)" },
+        { "nombre": "Ácido cianhídrico", "ionesReq": ["H⁺", "CN⁻"], "formula": "HCN(ac)" }
     ],
     "sales binarias (iónicas)": [
         { "nombre": "Cloruro de Sodio", "ionesReq": ["Na⁺", "Cl⁻"], "formula": "NaCl" },
